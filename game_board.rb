@@ -2,7 +2,6 @@ require_relative 'input.rb'
 require_relative 'display.rb'
 require_relative 'read_txt.rb'
 require 'yaml'
-require 'pry-byebug'
 
 class GameBoard
   include Input
